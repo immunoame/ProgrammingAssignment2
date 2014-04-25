@@ -1,5 +1,5 @@
 ## [Put comments here that describe what your functions do]
-##Amanda Enstrom PROGRAMMING ASSIGNMENT 2
+##PROGRAMMING ASSIGNMENT 2
 
 ###MakeCacheMatrix takes the inverse of a matrix _
 #matrix is cached for retrieval as retrieve
